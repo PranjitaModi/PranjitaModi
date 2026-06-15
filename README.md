@@ -21,9 +21,10 @@ Here are some ideas to get you started:
 
 Email Me 👉✉️ **modipranjita.com** For Collaboration/Project or Anything Else. 😊😊
 
-- 🔭 **I’m currently working on:**  Gamified College learning web project
+- 🔭 **I’m currently working on:**  Gamified College learning web project @CampusQuest
 - 🌱 **I’m currently learning:**  FastAPI, Supabase
 - 💬 **Ask me about:**  C++, Python, MERN
+- ✨ **Problem Solver**
 - 📫 **How to reach me:**  modipranjita@gmail.com
 - ⚡ **Fun fact:**  I Love Tech and Tech Love Me
 
