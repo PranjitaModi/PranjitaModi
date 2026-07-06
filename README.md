@@ -16,7 +16,7 @@ Here are some ideas to get you started:
 -->
 
 
-# Hi, I'm Pranjita Modi
+# Hi, I'm Pranjita Mod
 **A passionate Full-Stack Developer || Software Engineer**
 
 Email Me 👉✉️ **modipranjita.com** For Collaboration/Project or Anything Else. 😊😊
