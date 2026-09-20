@@ -22,7 +22,7 @@ Here are some ideas to get you started:
 Email Me 👉✉️ **modipranjita.com** For Collaboration/Project or Anything Else. 😊😊
 
 - 🔭 **I’m currently working on:**  FullStack + AI Integration
-- 🌱 **I’m currently learning:**  FastAPI, Supabase
+- 🌱 **I’m currently learning:**  FastAPI, Supabasee
 - 💬 **Ask me about:**  C++, Python, MERN
 - ✨ **Problem Solver**
 - 📫 **How to reach me:**  modipranjita@gmail.com
